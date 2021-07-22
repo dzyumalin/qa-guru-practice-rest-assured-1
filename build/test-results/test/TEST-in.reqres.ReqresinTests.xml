@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="in.reqres.ReqresinTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-07-22T02:13:10" hostname="DESKTOP-U6LQ95N" time="1.81">
+  <properties/>
+  <testcase name="createUserTest()" classname="in.reqres.ReqresinTests" time="1.81"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
